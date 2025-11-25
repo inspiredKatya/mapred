@@ -1,0 +1,9 @@
+customer_id,customer_name,email,country,registration_date,segment
+C1001,John Smith,john.smith@email.com,USA,2022-01-15,Premium
+C1002,Maria Garcia,maria.garcia@email.com,Spain,2022-03-20,Standard
+C1003,David Chen,david.chen@email.com,China,2022-02-10,Premium
+C1004,Sarah Johnson,sarah.johnson@email.com,USA,2022-04-05,Standard
+C1005,Ahmed Hassan,ahmed.hassan@email.com,Egypt,2022-01-30,Basic
+C1006,Emma Wilson,emma.wilson@email.com,UK,2022-05-15,Standard
+C1007,James Brown,james.brown@email.com,USA,2022-06-20,Basic
+C1008,Li Wei,li.wei@email.com,China,2022-03-10,Premium

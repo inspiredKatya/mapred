@@ -1,0 +1,6 @@
+product_id,product_name,category,price,supplier
+P3001,iPhone 13,Electronics,799.00,Apple Inc
+P3002,Nike Air Max,Footwear,120.00,Nike
+P3003,Java Programming,Books,45.00,Tech Publishing
+P3004,Samsung Galaxy,Electronics,699.00,Samsung
+P3005,Python Data Science,Books,120.00,Tech Publishing
